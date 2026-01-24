@@ -48,6 +48,7 @@ dicoding-bmlp/
 │   ├── PCA_model_clustering.h5
 │   ├── decision_tree_model.h5
 │   └── tuning_classification.h5
+│   └── explore_random_forest_classification.h5
 │
 └── requirements.txt
 ```
