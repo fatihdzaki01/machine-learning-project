@@ -31,25 +31,27 @@ Project mencakup dua pendekatan utama:
 
 ---
 
-## 🗂️ Struktur Folder
+## 📁 Folder Structure
+
+```text
 dicoding-bmlp/
 ├── notebooks/
-│ ├── [Clustering]_Submission_Akhir_BMLP_Nama.ipynb
-│ └── [Klasifikasi]_Submission_Akhir_BMLP_Nama.ipynb
+│   ├── [Clustering]_Submission_Akhir_BMLP_Nama.ipynb
+│   └── [Klasifikasi]_Submission_Akhir_BMLP_Nama.ipynb
 │
 ├── data/
-│ ├── data_clustering.csv
-│ └── data_clustering_inverse.csv
+│   ├── data_clustering.csv
+│   └── data_clustering_inverse.csv
 │
 ├── models/
-│ ├── model_clustering.h5
-│ ├── PCA_model_clustering.h5
-│ ├── decision_tree_model.h5
-│ └── tuning_classification.h5
+│   ├── model_clustering.h5
+│   ├── PCA_model_clustering.h5
+│   ├── decision_tree_model.h5
+│   └── tuning_classification.h5
+│   └── explore_random_forest_classification.h5
 │
 └── requirements.txt
-
-
+```
 ---
 
 ## ⚙️ Tools & Library
@@ -60,7 +62,6 @@ dicoding-bmlp/
 - Matplotlib
 - Seaborn
 - Joblib
-
 ---
 
 ## 📝 Note

@@ -1,15 +1,15 @@
 # Machine Learning Projects
 
-Repository ini berisi kumpulan project **Machine Learning** yang dibuat untuk keperluan pembelajaran, eksperimen, dan pengembangan portfolio.
+This repository contains a collection of **machine learning projects** created for learning, experimentation, and portfolio purposes.
 
-## 🧰 Tech Stack (Umum)
+## 🧰 Tech Stack (General)
 - Python
 - NumPy
 - Pandas
 - Scikit-learn
 - Matplotlib / Seaborn
 
-Detail library dan dependensi disesuaikan di masing-masing project.
+Library dependencies may vary across projects and are documented within each project folder.
 
 ## 📌 Notes
-Repository ini bersifat **work in progress** dan akan terus berkembang seiring penambahan project baru.
+This repository is a **work in progress** and will continue to grow as new projects are added.
